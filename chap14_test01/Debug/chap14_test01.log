@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Source\test\chap14_test01\main.c(25,7): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Source\test\chap14_test01\main.c(26,10): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+  chap14_test01.vcxproj -> D:\Source\test\chap12_test01\Debug\chap14_test01.exe

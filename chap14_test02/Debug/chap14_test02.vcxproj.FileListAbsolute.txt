@@ -1,0 +1,2 @@
+D:\Source\test\chap14_test02\Debug\chap14_test02.exe
+D:\Source\test\chap14_test02\Debug\chap14_test02.pdb
