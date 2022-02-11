@@ -1,0 +1,2 @@
+D:\Source\test\BookManagementSystem\Debug\BookManagementSystem.exe
+D:\Source\test\BookManagementSystem\Debug\BookManagementSystem.pdb
