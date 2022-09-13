@@ -8,5 +8,5 @@ int main()
     return 0;
 }
 
-// 빌드 버튼 (ctrl + alt + c)
-// run 버튼 (ctrl + alt + r)
+// 빌드 버튼 (ctrl + shift + F9)
+// run 버튼 (ctrl + shift + F10)
