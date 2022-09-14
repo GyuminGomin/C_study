@@ -1,15 +1,25 @@
 #include <stdio.h>
+#include <time.h>
 
 int main()
 {
-    // char greet[2];
-    // printf("Hello World! \n");
-    // scanf("%s",greet);
-    // return 0;
-    
+    time_t start, end;
+    double result;
+    int i, j;
+    int sum = 0;
+
+    start = time(NULL);
+
+    char greet[2];
+    printf("Hello World! \n");
+
+    end = time(NULL);
+    result = (double)(end - start);
+    printf("%f", result);
+    return 0;
 }
 
-// ë¹Œë“œ ë²„íŠ¼ (ctrl + shift + F9)
-// run ë²„íŠ¼ (ctrl + shift + F10)
+// ºôµå ¹öÆ° (ctrl + shift + F9)
+// run ¹öÆ° (ctrl + shift + F10)
 
-// í™”ê°€ë‚˜ëŠ”ê²Œ runì´ ì •ë§ ê°„ë‹¨í•œ ì‹¤í–‰ë¬¸ì¥ì´ë¼ë„ 5ì´ˆì´ìƒ ê±¸ë¦°ë‹¤...
+// È­°¡³ª´Â°Ô runÀÌ Á¤¸» °£´ÜÇÑ ½ÇÇà¹®ÀåÀÌ¶óµµ 10ÃÊÀÌ»ó °É¸°´Ù...
